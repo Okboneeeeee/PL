@@ -8,7 +8,7 @@
 ### HW1 
 程式碼https://github.com/Okboneeeeee/PL/blob/417e5f0b33fed902f3ada2e879facf7a828dfc60/HW1.py
 CSV檔https://github.com/Okboneeeeee/PL/blob/2283ea817a2e289ce7b7e26d572447edcc3bf5e5/company.csv
-![執行結果](圖片URL)
+![執行結果]([(https://github.com/Okboneeeeee/PL/blob/74183ceeabd2ea1461f1893a09ba0ae76f9108bb/%E5%9F%B7%E8%A1%8C%E7%B5%90%E6%9E%9C(HW1).png])
 
 
 ## 專題連結區  
