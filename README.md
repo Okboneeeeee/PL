@@ -5,6 +5,9 @@
 系級：科技系二年級  
 ## 課程筆記區  
 ## 作業連結區  
+### 前測程式碼
+### 中測程式碼
+### 後測程式碼
 ### HW1 
 程式碼https://github.com/Okboneeeeee/PL/blob/417e5f0b33fed902f3ada2e879facf7a828dfc60/HW1.py  
 CSV檔https://github.com/Okboneeeeee/PL/blob/2283ea817a2e289ce7b7e26d572447edcc3bf5e5/company.csv  
