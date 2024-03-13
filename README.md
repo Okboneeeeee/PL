@@ -6,5 +6,5 @@
 ## 課程筆記區  
 ## 作業連結區  
 ### HW1 
-程式碼已上傳至github，CSV檔
+程式碼https://github.com/Okboneeeeee/PL/blob/417e5f0b33fed902f3ada2e879facf7a828dfc60/HW1.py
 ## 專題連結區  
