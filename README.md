@@ -8,6 +8,7 @@
 ### 前測程式碼  
 https://github.com/Okboneeeeee/PL/blob/5cea21a2400f12c338452f4d660488717a233f5b/test.py
 ### 中測程式碼
+https://github.com/Okboneeeeee/PL/blob/4e591132b8917a77bd7b4ce01612389d0e8366fb/test2.py
 ### 後測程式碼
 ### HW1 
 程式碼https://github.com/Okboneeeeee/PL/blob/417e5f0b33fed902f3ada2e879facf7a828dfc60/HW1.py  
