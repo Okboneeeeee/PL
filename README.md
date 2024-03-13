@@ -10,6 +10,7 @@ https://github.com/Okboneeeeee/PL/blob/5cea21a2400f12c338452f4d660488717a233f5b/
 ### 中測程式碼
 https://github.com/Okboneeeeee/PL/blob/4e591132b8917a77bd7b4ce01612389d0e8366fb/test2.py
 ### 後測程式碼
+https://github.com/Okboneeeeee/PL/blob/a407749ab7ddf8987376c7f9a6712e40eef9f8c5/test3.py
 ### HW1 
 程式碼https://github.com/Okboneeeeee/PL/blob/417e5f0b33fed902f3ada2e879facf7a828dfc60/HW1.py  
 CSV檔https://github.com/Okboneeeeee/PL/blob/2283ea817a2e289ce7b7e26d572447edcc3bf5e5/company.csv  
