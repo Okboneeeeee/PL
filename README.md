@@ -5,7 +5,8 @@
 系級：科技系二年級  
 ## 課程筆記區  
 ## 作業連結區  
-### 前測程式碼
+### 前測程式碼  
+https://github.com/Okboneeeeee/PL/blob/5cea21a2400f12c338452f4d660488717a233f5b/test.py
 ### 中測程式碼
 ### 後測程式碼
 ### HW1 
