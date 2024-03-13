@@ -7,4 +7,8 @@
 ## 作業連結區  
 ### HW1 
 程式碼https://github.com/Okboneeeeee/PL/blob/417e5f0b33fed902f3ada2e879facf7a828dfc60/HW1.py
+CSV檔https://github.com/Okboneeeeee/PL/blob/2283ea817a2e289ce7b7e26d572447edcc3bf5e5/company.csv
+![執行結果](圖片URL)
+
+
 ## 專題連結區  
