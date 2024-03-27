@@ -19,7 +19,7 @@ CSV檔https://github.com/Okboneeeeee/PL/blob/2283ea817a2e289ce7b7e26d572447edcc3
 ### HW2
 JSON程式碼https://github.com/Okboneeeeee/PL/blob/01f7511dc12534fd06df58580555f62707b31b36/MBTI.json   
 資料視覺化程式碼https://github.com/Okboneeeeee/PL/blob/257a50856b03e58b82882e0da0a1c43e6d8cec6d/HW2(1).py
-https://github.com/Okboneeeeee/PL/blob/main/HW2(1).png?raw=true
+![執行結果]https://github.com/Okboneeeeee/PL/blob/main/HW2(1).png?raw=true
 
 
 
