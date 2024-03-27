@@ -16,6 +16,9 @@ https://github.com/Okboneeeeee/PL/blob/a407749ab7ddf8987376c7f9a6712e40eef9f8c5/
 CSV檔https://github.com/Okboneeeeee/PL/blob/2283ea817a2e289ce7b7e26d572447edcc3bf5e5/company.csv  
 執行結果如下圖
 ![執行結果](https://github.com/Okboneeeeee/PL/blob/main/%E5%9F%B7%E8%A1%8C%E7%B5%90%E6%9E%9C(HW1).png?raw=true)
+### HW2
+JSON程式碼
+資料視覺化程式碼
 
 
 ## 專題連結區  
