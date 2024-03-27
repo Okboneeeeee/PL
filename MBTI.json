@@ -1,0 +1,47 @@
+
+{   
+	"MBTI categories": {
+		"ENFJ": 47292,
+		"ENFP": 42228,
+		"ENTJ": 59993,
+		"ENTP": 54103,
+		"ESFJ": 47902,
+		"ESFP": 45067,
+		"ESTJ": 57831,
+		"ESTP": 53275,
+		"INFJ": 39992,
+		"INFP": 33736,
+		"INTJ": 46986,
+		"INTP": 38411,
+		"ISFJ": 41835,
+		"ISFP": 34595,
+		"ISTJ": 49994,
+		"ISTP": 41229},
+    "Trait expression":{
+        "Extraverts":50034,
+        "Introverts":40687,
+        "Sensors":46843,
+        "Intuitives":44933,
+        "Thinkers":50210,
+        "Feelers":41799,
+        "Judgers":48625,
+        "Perceivers":41722},
+    "Trait expression and gender":{
+        "Introverts-Female":50178,
+        "Extraverts-Female":55211,
+        "Introverts-Male":64552,
+        "Extraverts-Male":72238,
+        "Intuitives-Female":52473,
+        "Sensors-Female":53528,
+        "Intuitives-Male":67393,
+        "Sensors-Male":71724,
+        "Feelers-Female":51018,
+        "Thinkers-Female":56689,
+        "Feelers-Male":63354,
+        "Thinkers-Male":72188,
+        "Perceivers-Female":48743,
+        "Judgers-Female":55693,
+        "Perceivers-Male":63865,
+        "Judgers-Male":72213}
+
+}
