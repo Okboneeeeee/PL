@@ -47,7 +47,7 @@ Dataframe
 ![執行結果](https://github.com/Okboneeeeee/PL/blob/main/HW3-1.png?raw=true)   
 Dictionary   
 ![執行結果](https://github.com/Okboneeeeee/PL/blob/main/HW3-2.png?raw=true)   
-Json檔https://github.com/Okboneeeeee/PL/blob/fa7fb0137e05c10da24f6be4c35b96fa9005747/ptt_nba.json      
+Json檔https://github.com/Okboneeeeee/PL/blob/fe6bf6bdbc3e563ec983d0d583961ac1424d7207/ptt_nba.json      
 CSV檔https://github.com/Okboneeeeee/PL/blob/fa7fb0137e05c10da24f6be4c35b796fa9005747/ptt_nba.csv   
 
 
