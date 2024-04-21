@@ -28,9 +28,9 @@ JSON程式碼https://github.com/Okboneeeeee/PL/blob/01f7511dc12534fd06df58580555
 程式碼https://github.com/Okboneeeeee/PL/blob/fa7fb0137e05c10da24f6be4c35b796fa9005747/HW3.py   
 執行結果如下圖   
 Dataframe   
-![執行結果]()   
+![執行結果](https://github.com/Okboneeeeee/PL/blob/main/HW3-1.png?raw=true)   
 Dictionary   
-![執行結果]()   
+![執行結果](https://github.com/Okboneeeeee/PL/blob/main/HW3-2.png?raw=true)   
 Json檔https://github.com/Okboneeeeee/PL/blob/fa7fb0137e05c10da24f6be4c35b96fa9005747/ptt_nba.json      
 CSV檔https://github.com/Okboneeeeee/PL/blob/fa7fb0137e05c10da24f6be4c35b796fa9005747/ptt_nba.csv   
 
