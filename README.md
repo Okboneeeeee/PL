@@ -25,10 +25,10 @@ JSON程式碼https://github.com/Okboneeeeee/PL/blob/01f7511dc12534fd06df58580555
 資料視覺化程式碼_3 https://github.com/Okboneeeeee/PL/blob/257a50856b03e58b82882e0da0a1c43e6d8cec6d/HW2(3).py
 ![](https://github.com/Okboneeeeee/PL/blob/main/HW2(3).png?raw=true)
 ### HW3
-程式碼  
+程式碼https://github.com/Okboneeeeee/PL/blob/fa7fb0137e05c10da24f6be4c35b796fa9005747/HW3.py   
 執行結果如下圖   
-Json檔   
-CSV檔
+Json檔https://github.com/Okboneeeeee/PL/blob/fa7fb0137e05c10da24f6be4c35b796fa9005747/ptt_nba.json      
+CSV檔https://github.com/Okboneeeeee/PL/blob/fa7fb0137e05c10da24f6be4c35b796fa9005747/ptt_nba.csv   
 
 
 
